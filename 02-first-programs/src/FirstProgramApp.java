@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FirstProgramApp {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to my first Java program!");
+		System.out.println("Welcome to my first Java program!!!!!!");
 		
 		// This is a one line comment
 		
